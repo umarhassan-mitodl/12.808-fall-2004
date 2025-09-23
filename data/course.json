@@ -1,0 +1,55 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ],
+    [
+      "Engineering",
+      "Ocean Engineering",
+      "Hydrodynamics"
+    ]
+  ],
+  "legacy_uid": "9fac4c9c-0dd0-246a-3d82-b957112b2094",
+  "instructors": {
+    "content": [
+      "b2395173-e56a-9f63-6d55-0403b3fbb8a9",
+      "50450bd3-3d3c-5b03-3412-89cab27ee017"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1854d39e-d47d-e053-8092-dba47f4b953e",
+    "website": "12-808-introduction-to-observational-physical-oceanography-fall-2004"
+  },
+  "course_title": "Introduction to Observational Physical Oceanography",
+  "course_description": "Observational physical oceanography includes topics\u00a0such as the \u00a0physical description of the sea, the physical properties of seawater, methods and measurements, wind-driven ocean circulation, abyssal ocean circulation, boundary processes, and wave motions.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.808",
+  "course_image_thumbnail": {
+    "content": "db967020-c9b9-93a7-34ea-ec104c641a8f",
+    "website": "12-808-introduction-to-observational-physical-oceanography-fall-2004"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Problem Sets"
+  ],
+  "site_uid": "51acda96-3c99-4c7d-9bc0-02c2c5e7dfa3",
+  "site_short_id": "12.808-fall-2004",
+  "site_url_path": "courses/12-808-introduction-to-observational-physical-oceanography-fall-2004",
+  "title": "Course Metadata"
+}
